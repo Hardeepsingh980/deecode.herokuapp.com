@@ -1,0 +1,384 @@
+{
+    "date": {
+        "gregorian": {
+            "month": "December",
+            "monthno": 12,
+            "date": 18,
+            "year": 2020,
+            "day": "Friday"
+        },
+        "nanakshahi": {
+            "english": {
+                "month": "Poh",
+                "monthno": 10,
+                "date": 5,
+                "year": 552,
+                "day": "Shukarvaar"
+            },
+            "punjabi": {
+                "month": "ਪੋਹ",
+                "monthno": "੧੦",
+                "date": "੫",
+                "year": "੫੫੨",
+                "day": "ਸ਼ੁੱਕਰਵਾਰ"
+            }
+        }
+    },
+    "hukamnamainfo": {
+        "shabadid": [
+            "TS7"
+        ],
+        "pageno": 715,
+        "source": {
+            "id": 1,
+            "akhar": "SRI gurU gRMQ swihb jI",
+            "unicode": "ਸ਼੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ ਜੀ",
+            "english": "Sri Guru Granth Sahib Ji",
+            "length": 1430,
+            "pageName": {
+                "akhar": "AMg",
+                "unicode": "ਅੰਗ",
+                "english": "Ang"
+            }
+        },
+        "writer": {
+            "id": 5,
+            "akhar": "gurU Arjn dyv jI",
+            "unicode": "ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ",
+            "english": "Guru Arjan Dev Ji"
+        },
+        "raag": {
+            "id": 16,
+            "akhar": "rwgu tofI",
+            "unicode": "ਰਾਗੁ ਟੋਡੀ",
+            "english": "Raag Todee",
+            "startang": 711,
+            "endang": 718,
+            "raagwithpage": "Raag Todee (711-718)"
+        },
+        "count": 8
+    },
+    "hukamnama": [
+        {
+            "line": {
+                "id": "9P4T",
+                "gurmukhi": {
+                    "akhar": "tofI mhlw 5 ]",
+                    "unicode": "ਟੋਡੀ ਮਹਲਾ ੫ ॥"
+                },
+                "larivaar": {
+                    "akhar": "tofI​mhlw​5​]",
+                    "unicode": "ਟੋਡੀ​ਮਹਲਾ​੫​॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "Todee, Fifth Mehl:"
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "",
+                            "unicode": ""
+                        }
+                    },
+                    "spanish": "Todi, Mejl Guru Aryan, Quinto Canal Divino."
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "ttoddee mahalaa 5 |",
+                        "larivaar": "ttoddee​mahalaa​5​|"
+                    },
+                    "devanagari": {
+                        "text": "टोडी महला ५ ॥",
+                        "larivaar": "टोडी​महला​५​॥"
+                    }
+                },
+                "linenum": 15,
+                "firstletters": {
+                    "akhar": "tm5",
+                    "unicode": "ਟਮ੫"
+                }
+            }
+        },
+        {
+            "line": {
+                "id": "Y3KV",
+                "gurmukhi": {
+                    "akhar": "grib gihlVo mUVVo hIE ry ]",
+                    "unicode": "ਗਰਬਿ ਗਹਿਲੜੋ ਮੂੜੜੋ ਹੀਓ ਰੇ ॥"
+                },
+                "larivaar": {
+                    "akhar": "grib​gihlVo​mUVVo​hIE​ry​]",
+                    "unicode": "ਗਰਬਿ​ਗਹਿਲੜੋ​ਮੂੜੜੋ​ਹੀਓ​ਰੇ​॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "My foolish heart is in the grip of pride."
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "hy BweI! mUrK ihrdw AhMkwr ivc J`lw hoieAw rihMdw hY[",
+                            "unicode": "ਹੇ ਭਾਈ! ਮੂਰਖ ਹਿਰਦਾ ਅਹੰਕਾਰ ਵਿਚ ਝੱਲਾ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ।"
+                        }
+                    },
+                    "spanish": "Mi mente ignorante está en las garras del ego;"
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "garab gahilarro moorrarro heeo re |",
+                        "larivaar": "garab​gahilarro​moorrarro​heeo​re​|"
+                    },
+                    "devanagari": {
+                        "text": "गरबि गहिलड़ो मूड़ड़ो हीओ रे ॥",
+                        "larivaar": "गरबि​गहिलड़ो​मूड़ड़ो​हीओ​रे​॥"
+                    }
+                },
+                "linenum": 15,
+                "firstletters": {
+                    "akhar": "ggmhr",
+                    "unicode": "ਗਗਮਹਰ"
+                }
+            }
+        },
+        {
+            "line": {
+                "id": "2Y0L",
+                "gurmukhi": {
+                    "akhar": "hIE mhrwj rI mwieE ]",
+                    "unicode": "ਹੀਓ ਮਹਰਾਜ ਰੀ ਮਾਇਓ ॥"
+                },
+                "larivaar": {
+                    "akhar": "hIE​mhrwj​rI​mwieE​]",
+                    "unicode": "ਹੀਓ​ਮਹਰਾਜ​ਰੀ​ਮਾਇਓ​॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "By the Will of my Lord God, Maya,"
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "ies ihrdy ƒ mhwrwj (pRBU) dI mwieAw ny-",
+                            "unicode": "ਇਸ ਹਿਰਦੇ ਨੂੰ ਮਹਾਰਾਜ (ਪ੍ਰਭੂ) ਦੀ ਮਾਇਆ ਨੇ-"
+                        }
+                    },
+                    "spanish": "tal es la Voluntad de mi Dios, que la ilusión ha atrapado mi mente,"
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "heeo maharaaj ree maaeio |",
+                        "larivaar": "heeo​maharaaj​ree​maaeio​|"
+                    },
+                    "devanagari": {
+                        "text": "हीओ महराज री माइओ ॥",
+                        "larivaar": "हीओ​महराज​री​माइओ​॥"
+                    }
+                },
+                "linenum": 16,
+                "firstletters": {
+                    "akhar": "hmrm",
+                    "unicode": "ਹਮਰਮ"
+                }
+            }
+        },
+        {
+            "line": {
+                "id": "EJ3J",
+                "gurmukhi": {
+                    "akhar": "fIhr inAweI moih PwikE ry ] rhwau ]",
+                    "unicode": "ਡੀਹਰ ਨਿਆਈ ਮੋਹਿ ਫਾਕਿਓ ਰੇ ॥ ਰਹਾਉ ॥"
+                },
+                "larivaar": {
+                    "akhar": "fIhr​inAweI​moih​PwikE​ry​]​rhwau​]",
+                    "unicode": "ਡੀਹਰ​ਨਿਆਈ​ਮੋਹਿ​ਫਾਕਿਓ​ਰੇ​॥​ਰਹਾਉ​॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "Like a witch, has swallowed my soul. ||Pause||"
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "m`CI vWg moh ivc Psw r`iKAw hY (ijvyN m`CI ƒ kuMfI ivc) rhwau]",
+                            "unicode": "ਮੱਛੀ ਵਾਂਗ ਮੋਹ ਵਿਚ ਫਸਾ ਰੱਖਿਆ ਹੈ (ਜਿਵੇਂ ਮੱਛੀ ਨੂੰ ਕੁੰਡੀ ਵਿਚ) ਰਹਾਉ॥"
+                        }
+                    },
+                    "spanish": "y como una bruja malvada persigue mi mente y la desvía. (Pausa)"
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "ddeehar niaaee mohi faakio re | rahaau |",
+                        "larivaar": "ddeehar​niaaee​mohi​faakio​re​|​rahaau​|"
+                    },
+                    "devanagari": {
+                        "text": "डीहर निआई मोहि फाकिओ रे ॥ रहाउ ॥",
+                        "larivaar": "डीहर​निआई​मोहि​फाकिओ​रे​॥​रहाउ​॥"
+                    }
+                },
+                "linenum": 16,
+                "firstletters": {
+                    "akhar": "fnmPrr",
+                    "unicode": "ਡਨਮਫਰਰ"
+                }
+            }
+        },
+        {
+            "line": {
+                "id": "1WBA",
+                "gurmukhi": {
+                    "akhar": "Gxo Gxo Gxo sd loVY ibnu lhxy kYTY pwieE ry ]",
+                    "unicode": "ਘਣੋ ਘਣੋ ਘਣੋ ਸਦ ਲੋੜੈ ਬਿਨੁ ਲਹਣੇ ਕੈਠੈ ਪਾਇਓ ਰੇ ॥"
+                },
+                "larivaar": {
+                    "akhar": "Gxo​Gxo​Gxo​sd​loVY​ibnu​lhxy​kYTY​pwieE​ry​]",
+                    "unicode": "ਘਣੋ​ਘਣੋ​ਘਣੋ​ਸਦ​ਲੋੜੈ​ਬਿਨੁ​ਲਹਣੇ​ਕੈਠੈ​ਪਾਇਓ​ਰੇ​॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "More and more, he continually yearns for more; but unless he is destined to receive, how can he obtain it?"
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "hy BweI! (moh ivc PisAw hoieAw ihrdw) sdw bhuq bhuq (mwieAw) mMgdw rihMdw hY, pr BwgW qoN ibnw ikQoN pRwpq kry?",
+                            "unicode": "ਹੇ ਭਾਈ! (ਮੋਹ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹਿਰਦਾ) ਸਦਾ ਬਹੁਤ ਬਹੁਤ (ਮਾਇਆ) ਮੰਗਦਾ ਰਹਿੰਦਾ ਹੈ, ਪਰ ਭਾਗਾਂ ਤੋਂ ਬਿਨਾ ਕਿਥੋਂ ਪ੍ਰਾਪਤ ਕਰੇ?"
+                        }
+                    },
+                    "spanish": "Ahora añoro más y más la Verdadera Realización, pero, ¿cómo puedo obtener lo que no está en mi destino?"
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "ghano ghano ghano sad lorrai bin lahane kaitthai paaeio re |",
+                        "larivaar": "ghano​ghano​ghano​sad​lorrai​bin​lahane​kaitthai​paaeio​re​|"
+                    },
+                    "devanagari": {
+                        "text": "घणो घणो घणो सद लोड़ै बिनु लहणे कैठै पाइओ रे ॥",
+                        "larivaar": "घणो​घणो​घणो​सद​लोड़ै​बिनु​लहणे​कैठै​पाइओ​रे​॥"
+                    }
+                },
+                "linenum": 16,
+                "firstletters": {
+                    "akhar": "GGGslblkpr",
+                    "unicode": "ਘਘਘਸਲਬਲਕਪਰ"
+                }
+            }
+        },
+        {
+            "line": {
+                "id": "7WL6",
+                "gurmukhi": {
+                    "akhar": "mhrwj ro gwQu vwhU isau luBiVE inhBwgVo Bwih sMjoieE ry ]1]",
+                    "unicode": "ਮਹਰਾਜ ਰੋ ਗਾਥੁ ਵਾਹੂ ਸਿਉ ਲੁਭੜਿਓ ਨਿਹਭਾਗੜੋ ਭਾਹਿ ਸੰਜੋਇਓ ਰੇ ॥੧॥"
+                },
+                "larivaar": {
+                    "akhar": "mhrwj​ro​gwQu​vwhU​isau​luBiVE​inhBwgVo​Bwih​sMjoieE​ry​]1]",
+                    "unicode": "ਮਹਰਾਜ​ਰੋ​ਗਾਥੁ​ਵਾਹੂ​ਸਿਉ​ਲੁਭੜਿਓ​ਨਿਹਭਾਗੜੋ​ਭਾਹਿ​ਸੰਜੋਇਓ​ਰੇ​॥੧॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "He is entangled in wealth, bestowed by the Lord God; the unfortunate one attaches himself to the fire of desires. ||1||"
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "hy BweI! mhwrwj dw (id`qw hoieAw) ieh srIr hY, iesy nwl (mUrK jIv) moh krdw rihMdw hY[ inBwgw mnu`K (Awpxy mn ƒ iqRSnw dI) A`g nwl joVI r`Kdw hY ]1]",
+                            "unicode": "ਹੇ ਭਾਈ! ਮਹਾਰਾਜ ਦਾ (ਦਿੱਤਾ ਹੋਇਆ) ਇਹ ਸਰੀਰ ਹੈ, ਇਸੇ ਨਾਲ (ਮੂਰਖ ਜੀਵ) ਮੋਹ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ। ਨਿਭਾਗਾ ਮਨੁੱਖ (ਆਪਣੇ ਮਨ ਨੂੰ ਤ੍ਰਿਸ਼ਨਾ ਦੀ) ਅੱਗ ਨਾਲ ਜੋੜੀ ਰੱਖਦਾ ਹੈ ॥੧॥"
+                        }
+                    },
+                    "spanish": "Yo, un ser desafortunado, me he estado quemando en el fuego del deseo apegándome no a Dios, sino a Sus Regalos.(1)"
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "maharaaj ro gaath vaahoo siau lubharrio nihabhaagarro bhaeh sanjoeio re |1|",
+                        "larivaar": "maharaaj​ro​gaath​vaahoo​siau​lubharrio​nihabhaagarro​bhaeh​sanjoeio​re​|1|"
+                    },
+                    "devanagari": {
+                        "text": "महराज रो गाथु वाहू सिउ लुभड़िओ निहभागड़ो भाहि संजोइओ रे ॥१॥",
+                        "larivaar": "महराज​रो​गाथु​वाहू​सिउ​लुभड़िओ​निहभागड़ो​भाहि​संजोइओ​रे​॥१॥"
+                    }
+                },
+                "linenum": 16,
+                "firstletters": {
+                    "akhar": "mrgvslnBsr",
+                    "unicode": "ਮਰਗਵਸਲਨਭਸਰ"
+                }
+            }
+        },
+        {
+            "line": {
+                "id": "HXGZ",
+                "gurmukhi": {
+                    "akhar": "suix mn sIK swDU jn sglo Qwry sgly pRwCq imitE ry ]",
+                    "unicode": "ਸੁਣਿ ਮਨ ਸੀਖ ਸਾਧੂ ਜਨ ਸਗਲੋ ਥਾਰੇ ਸਗਲੇ ਪ੍ਰਾਛਤ ਮਿਟਿਓ ਰੇ ॥"
+                },
+                "larivaar": {
+                    "akhar": "suix​mn​sIK​swDU​jn​sglo​Qwry​sgly​pRwCq​imitE​ry​]",
+                    "unicode": "ਸੁਣਿ​ਮਨ​ਸੀਖ​ਸਾਧੂ​ਜਨ​ਸਗਲੋ​ਥਾਰੇ​ਸਗਲੇ​ਪ੍ਰਾਛਤ​ਮਿਟਿਓ​ਰੇ​॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "Listen, O mind, to the Teachings of the Holy Saints, and all your sins shall be totally washed away."
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "hy mn! swry swDU jnW dI is`iKAw suixAw kr, (ies dI brkiq nwl) qyry swry pwp imt jwxgy[",
+                            "unicode": "ਹੇ ਮਨ! ਸਾਰੇ ਸਾਧੂ ਜਨਾਂ ਦੀ ਸਿੱਖਿਆ ਸੁਣਿਆ ਕਰ, (ਇਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਤੇਰੇ ਸਾਰੇ ਪਾਪ ਮਿਟ ਜਾਣਗੇ।"
+                        }
+                    },
+                    "spanish": "Escucha, oh mente mía, escucha la Sabiduría de los Santos y tus errores serán lavados,"
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "sun man seekh saadhoo jan sagalo thaare sagale praachhat mittio re |",
+                        "larivaar": "sun​man​seekh​saadhoo​jan​sagalo​thaare​sagale​praachhat​mittio​re​|"
+                    },
+                    "devanagari": {
+                        "text": "सुणि मन सीख साधू जन सगलो थारे सगले प्राछत मिटिओ रे ॥",
+                        "larivaar": "सुणि​मन​सीख​साधू​जन​सगलो​थारे​सगले​प्राछत​मिटिओ​रे​॥"
+                    }
+                },
+                "linenum": 17,
+                "firstletters": {
+                    "akhar": "smssjsQspmr",
+                    "unicode": "ਸਮਸਸਜਸਥਸਪਮਰ"
+                }
+            }
+        },
+        {
+            "line": {
+                "id": "1A4K",
+                "gurmukhi": {
+                    "akhar": "jw ko lhxo mhrwj rI gwTVIE jn nwnk grBwis n pauiVE ry ]2]2]19]",
+                    "unicode": "ਜਾ ਕੋ ਲਹਣੋ ਮਹਰਾਜ ਰੀ ਗਾਠੜੀਓ ਜਨ ਨਾਨਕ ਗਰਭਾਸਿ ਨ ਪਉੜਿਓ ਰੇ ॥੨॥੨॥੧੯॥"
+                },
+                "larivaar": {
+                    "akhar": "jw​ko​lhxo​mhrwj​rI​gwTVIE​jn​nwnk​grBwis​n​pauiVE​ry​]2]2]19]",
+                    "unicode": "ਜਾ​ਕੋ​ਲਹਣੋ​ਮਹਰਾਜ​ਰੀ​ਗਾਠੜੀਓ​ਜਨ​ਨਾਨਕ​ਗਰਭਾਸਿ​ਨ​ਪਉੜਿਓ​ਰੇ​॥੨॥੨॥੧੯॥"
+                },
+                "translation": {
+                    "english": {
+                        "default": "One who is destined to receive from the Lord, O servant Nanak, shall not be cast into the womb of reincarnation again. ||2||2||19||"
+                    },
+                    "punjabi": {
+                        "default": {
+                            "akhar": "hy dws nwnk! (AwK-) mhwrwj dy ^zwny ivcoN ijs dy BwgW ivc kuJ pRwpqI ilKI hY, auh jUnW ivc nhIN pYNdw ]2]2]19]",
+                            "unicode": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਮਹਾਰਾਜ ਦੇ ਖ਼ਜ਼ਾਨੇ ਵਿਚੋਂ ਜਿਸ ਦੇ ਭਾਗਾਂ ਵਿਚ ਕੁਝ ਪ੍ਰਾਪਤੀ ਲਿਖੀ ਹੈ, ਉਹ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ ॥੨॥੨॥੧੯॥"
+                        }
+                    },
+                    "spanish": "dice Nanak, quien está destinado a encontrar al Señor, ya no encarna otra vez.(2-2-19)"
+                },
+                "transliteration": {
+                    "english": {
+                        "text": "jaa ko lahano maharaaj ree gaattharreeo jan naanak garabhaas na paurrio re |2|2|19|",
+                        "larivaar": "jaa​ko​lahano​maharaaj​ree​gaattharreeo​jan​naanak​garabhaas​na​paurrio​re​|2|2|19|"
+                    },
+                    "devanagari": {
+                        "text": "जा को लहणो महराज री गाठड़ीओ जन नानक गरभासि न पउड़िओ रे ॥२॥२॥१९॥",
+                        "larivaar": "जा​को​लहणो​महराज​री​गाठड़ीओ​जन​नानक​गरभासि​न​पउड़िओ​रे​॥२॥२॥१९॥"
+                    }
+                },
+                "linenum": 17,
+                "firstletters": {
+                    "akhar": "jklmrgjngnpr",
+                    "unicode": "ਜਕਲਮਰਗਜਨਗਨਪਰ"
+                }
+            }
+        }
+    ],
+    "error": false
+}
