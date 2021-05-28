@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import JsonResponse
 import requests
 import json
+import datetime
 from . import code2
 from . import decorder
 
@@ -40,6 +41,33 @@ def sendHumkam(request):
     res = requests.post('https://fcm.googleapis.com/fcm/send', data=json.dumps(data), headers=headers)
 
     return JsonResponse(res.text, safe=False)
+
+
+def sendGurupurab(request):
+    res = []
+
+    with open('dates.json', encoding='utf-8') as f:
+        json_data = json.load(f)
+
+    today = datetime.datetime.now()
+    for holiday in json_data[str(today.month)][str(today.day)]:
+        data = {
+            "notification": {"body": holiday['en'], "title": holiday['pa']},
+            "priority": "high",
+            "data": {
+                "click_action": "FLUTTER_NOTIFICATION_CLICK",
+            },
+            "to":"/topics/gurupurab",
+        }
+
+        headers = {
+        'content-type': 'application/json',
+        'Authorization': 'key=AAAAALKGjxw:APA91bGIQrURLECUCSy5dfFwDYers7dbK4WrqOL6ATPeMbiolIhOPuIUyCDAuMRQgnXctEOLL7tC9KspwJjaGOYByoq0fPbRSMar4ZgI76jmAk3uebv3QLO-3zbhvovh6Rz43cllJiTR'
+        }
+
+        res += requests.post('https://fcm.googleapis.com/fcm/send', data=json.dumps(data), headers=headers).text
+
+    return JsonResponse(res, safe=False)
 
 
 def about(request):
